@@ -1,0 +1,14 @@
+{
+  "editor.wordWrapColumn": 320,
+  "editor.rulers": [],
+  "editor.overviewRulerBorder": false,
+  "editor.renderIndentGuides": false,
+  "[git-commit]": {
+    "editor.rulers": [],
+    "workbench.editor.restoreViewState": false
+  },
+
+  "[dart]": {
+    "editor.rulers": []
+  }
+}
