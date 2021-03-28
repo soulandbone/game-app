@@ -82,6 +82,7 @@ class GameController extends Game {
       y = rand.nextDouble() * screenSize.height;
 
       case 4:
+      
     }
   }
 }
